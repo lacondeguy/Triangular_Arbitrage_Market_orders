@@ -2,7 +2,7 @@ import ccxt
 
 base_ticker = 'USDT'
 INVESTMENT_AMOUNT_DOLLARS = 100
-MIN_PROFIT_DOLLARS = -0.5
+MIN_PROFIT_DOLLARS = 0.5
 
 
 proxy_list = ['socks5://login:pass@ip:port',
