@@ -9,6 +9,8 @@ proxy_list = ['socks5://login:pass@ip:port',
               'socks5://login:pass@ip:port',
               'socks5://login:pass@ip:port']
 
+
+# The last value is the trading commission on the exchange
 all_exchanges = {'binance' :     ["https://binance.com/ru/trade/", "/_", ccxt.binance(), 0.1],
                  'coinbasepro' : ["https://pro.coinbase.com/trade/", "/-", ccxt.coinbasepro(), 0.6],
                  'gateio' :      ["https://www.gate.io/ru/trade/", "/_", ccxt.gateio(), 0.3],
