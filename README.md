@@ -1,5 +1,4 @@
-Upgraded this script: https://github.com/Lakshmi-1212/TriangularArbitrageCryptos
-
+Upgraded this script by Lakshmi-1212
 - Changed limit orders to market orders
 - Added volume check
 - Added support for multiple exchanges
